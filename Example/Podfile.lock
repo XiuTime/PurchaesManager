@@ -1,0 +1,16 @@
+PODS:
+  - DFPurchaseManager (0.1.0)
+
+DEPENDENCIES:
+  - DFPurchaseManager (from `../`)
+
+EXTERNAL SOURCES:
+  DFPurchaseManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DFPurchaseManager: 7bafafffc9e736ef9caf758c1d31f29eaf90e77c
+
+PODFILE CHECKSUM: efa60c3bde540c73edc4a0655b6ebcf90e6948e4
+
+COCOAPODS: 1.10.1

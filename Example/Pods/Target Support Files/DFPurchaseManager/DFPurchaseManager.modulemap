@@ -1,0 +1,6 @@
+framework module DFPurchaseManager {
+  umbrella header "DFPurchaseManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

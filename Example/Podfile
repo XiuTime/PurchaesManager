@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DFPurchaseManager_Example' do
+  pod 'DFPurchaseManager', :path => '../'
+
+  target 'DFPurchaseManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
